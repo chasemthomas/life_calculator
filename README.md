@@ -14,8 +14,15 @@ How many days have you been alive? How many more do you have left? Let's find ou
  - [ ] totalTime calculation
  - [ ] totalYearWeeksDaysHours calculation
  - [ ] Create lifeExpectancy method
+ - [ ] Add -th -st endings
  - [ ] Add life expectancy input + links to ui
  - [ ] Design UI, then add new to-dos to account for ui effort
  - [ ] Fork repo to new project: Life Calculator Chrome Extension
 
-*Last updated August 5, 2021*
+### Journal
+  
+*August 10th, 2021*
+
+Created a "person" class to gather and hold user information. Right now will only log user's information to console. 
+
+Tried to put class in a module but forgot about CORS. I will need to convert this into a node.js project if I want to go that route. 
